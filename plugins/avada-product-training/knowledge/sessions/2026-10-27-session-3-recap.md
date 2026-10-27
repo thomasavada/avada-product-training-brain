@@ -149,21 +149,47 @@ Nếu chỉ chứng minh app chạy được hoặc response rate tăng, mình m
 
 Tương tự với AOV. Không thể mặc định brand nào cũng cần tăng AOV. Phải xem stage, assortment, AOV hiện tại, headroom và trade-off với CVR, margin hoặc repeat.
 
-## Mình đọc feedback trước buổi hôm nay như thế nào
+## Mình đọc feedback của mọi người như thế nào
 
-Hiện có hai feedback, gửi ngày 21/10 và 24/10. Cả hai đều được gửi trước Session 3 hôm nay, nên mình không dùng chúng để kết luận rằng buổi hôm nay vẫn có nguyên các vấn đề cũ.
+Mình đã đọc hai feedback gửi ngày 21/10 và 24/10. Cả hai đều có trước Session 3 hôm nay, nên mình xem chúng là input để điều chỉnh buổi học, không dùng chúng để kết luận buổi hôm nay đã tốt hay chưa.
 
-Có hai điểm mình thấy hợp lý.
+Hai feedback cho mình thấy hai trạng thái khá khác nhau.
 
-Thứ nhất, một số khái niệm eCommerce và business còn mới. Kahoot hoặc quick quiz có thể giúp mình biết baseline thật của mọi người, ví dụ AOV, COGS, CVR, CAC, CLV, OEM hay quy trình gia công. Phần nào room chưa vững thì mình dừng lại giải thích, thay vì đoán rằng mọi người đã biết.
+Một bạn cảm thấy chuỗi training đã giúp thay đổi cách tiếp cận: thay vì có sẵn solution rồi để merchant tự adapt, bạn bắt đầu muốn hiểu merchant, pain point, cách vận hành và cách họ monetize trước. Bạn chấm value, confidence và format ở mức 4/5. Điểm bạn muốn cải thiện là interaction. Bạn cũng đề nghị dùng Kahoot để kiểm tra nhanh các khái niệm nền như OEM, quy trình gia công và các thuật ngữ business/eCommerce trước khi vào phần sâu hơn.
 
-Thứ hai, Session 2 có quá nhiều concept, metric và mechanism trong một buổi. Phần này mình đồng ý là đã đi nhanh. Vì vậy buổi hôm nay mình đã giảm lượng kiến thức mới và dành nhiều thời gian hơn cho case Bloom, phản biện và câu chuyện value/ROI.
+Bạn còn đặt một câu hỏi mình thấy đúng hướng: store này có thật sự sinh lời không, và nếu đứng ở vị trí một nhà đầu tư thì mình có bỏ tiền vào không? Câu hỏi này kéo việc phân tích ra khỏi website và feature, quay về business quality.
 
-Tuy nhiên, mình cũng không nghĩ có thể giải quyết toàn bộ business sense trong 4–6 buổi. Điều quan trọng hơn là tạo thói quen quan sát và practice.
+Một bạn khác đã nhìn ra rằng phải phân tích business model và economics, không thể chỉ nhìn website, feature hoặc doanh thu. Nhưng bạn vẫn chỉ chấm confidence 2/5 và format giúp hiểu sâu 2/5. Phần khó nhất không phải nhớ definition mà là tự bắt đầu một case thật:
 
-Các slide đã có framework. Video và source cũng đã có. Câu hỏi tiếp theo là mọi người có dành thời gian xem, tự teardown một business và tạo artifact từ đó hay không.
+- tìm evidence ở đâu;
+- metric không public thì làm gì;
+- estimate dựa vào clue nào;
+- assumption thế nào thì defend được;
+- từ một đống observation đi tới business diagnosis ra sao;
+- thông tin nào quan trọng, thông tin nào chỉ làm slide dày hơn.
 
-Mình sẽ tiếp tục giãn lượng kiến thức, dành thời gian reconnect các phần với nhau và cung cấp thêm nguồn học. Nhưng source sẽ không chỉ là một list link. Mỗi video hoặc podcast cần đi cùng câu hỏi:
+Bạn đề nghị trainer làm một worked case từ đầu tới cuối, sau đó mới để mọi người làm một brand khác; đồng thời có worksheet hoặc bài mẫu để những người chưa quen với business metrics có chỗ bám ban đầu.
+
+Mình đồng ý với phần lớn các điểm này. Session 2 đã đưa quá nhiều concept, metric và mechanism vào khoảng 1,5 tiếng. Việc người nghe hiểu từng mảnh nhưng chưa nối được thành một cách làm hoàn chỉnh là vấn đề của format, không thể chỉ nói rằng mọi người cần tự học thêm.
+
+Buổi hôm nay mình đã điều chỉnh một phần:
+
+- giảm lượng kiến thức mới;
+- dành nhiều thời gian hơn cho case Bloom;
+- dùng slide và evidence của chính team để trao đổi;
+- để room đưa nhận định và phản biện;
+- nối stage và ICP với value, ROI và pricing.
+
+Bài Bloom cho thấy framework đã bắt đầu được sử dụng. Mọi người đã biết nhìn product, offer, channel, competitor, stage và constraint. Nhưng mình cũng thấy khoảng cách từ “đã có framework” tới “dùng thành thạo trên một case mới” vẫn còn khá lớn. Khoảng cách này cần practice lặp lại, không thể giải quyết chỉ bằng thêm slide.
+
+Các điều chỉnh tiếp theo mình sẽ giữ:
+
+1. **Kahoot/quick quiz đầu phần học** để biết room đang hổng ở terminology, denominator, grain hay arithmetic nào. Quiz dùng để chẩn đoán, không dùng để xếp hạng.
+2. **Một worked example hoàn chỉnh** để thấy research → source → assumption → economics → diagnosis nối với nhau thế nào.
+3. **Worksheet có mức scaffold giảm dần**: bài mẫu đầy đủ → worksheet điền một phần → blank template → open case. Mục tiêu là tự làm được, không phụ thuộc form mãi.
+4. **Giãn lượng kiến thức và reconnect giữa các buổi**, thay vì tiếp tục nén thêm concept.
+5. **Dùng nhiều case đối lập**. Một case sâu giúp học process, nhưng chỉ một brand dễ tạo bias. Blume, Promix và Bloom cho thấy cùng một framework có thể dẫn tới những answer khác nhau.
+6. **Source/video đi kèm active prompt**. Mình sẽ không chỉ gửi một list link. Mỗi source cần nói rõ:
 
 ```text
 Mình cần xem gì?
@@ -172,7 +198,7 @@ Ghi lại điều gì?
 Sau khi xem phải tạo artifact gì?
 ```
 
-Kahoot sẽ được dùng như một diagnostic và retrieval check, không thay thế việc phân tích case.
+Mình cũng không kỳ vọng 4–6 buổi có thể giải quyết hết business sense. Phần quan trọng hơn là tạo một thói quen: mỗi tuần quan sát thêm một business, thử dựng model, bị challenge và sửa lại. Slide, video và brain chỉ là nguyên liệu; capability đến từ việc dùng chúng đều đặn.
 
 ## Mình vẫn muốn room interactive hơn
 

@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "plugins" / "avada-product-training"
-EXPECTED_VERSION = "0.2.1"
+EXPECTED_VERSION = "0.2.2"
 
 
 def load_json(path):
