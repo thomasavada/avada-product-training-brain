@@ -10,7 +10,7 @@
     {
       "name": "avada-product-training",
       "source": "./plugins/avada-product-training",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "description": "Avada Product Training brain with /teach-me, /analyze-brand, /analyze-app and source-grounded training knowledge.",
       "category": "productivity"
     }
