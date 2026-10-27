@@ -1,0 +1,33 @@
+---
+source: "Chase Chappell YouTube"
+verified: 2026-09-01
+drift-risk: medium
+title: Three levels of purchase
+related:
+  - "[[Break-even ROAS and AOV floor]]"
+  - "[[Metric diagnosis tree]]"
+  - "[[Email and SMS]]"
+  - "[[Shopify CRO]]"
+  - "[[Hero mechanism]]"
+  - "[[Offer economics]]"
+---
+
+# Three levels of purchase
+
+Watch: [Ecommerce funnel they beg to buy](https://youtu.be/XXSURdY70MU) · IM8: [Sell for 8X more](https://youtu.be/MhxQJp75Wlo)
+
+| Level | Job | Cap |
+|---|---|---|
+| **L1** | Front-end profit on sale 1 (ROAS ~1.4–1.8x) | Yes. You cannot outbid L3 brands. |
+| **L2** | AOV — bundle, in-cart, post-purchase | 3–5x, then still caps |
+| **L3** | Come-back — **subscription + loyalty** | 7 repeats ≈ **17x LTV ROAS** (claimed) |
+
+Walk (claimed): CAC $35 → ~$565 profit over 7 months. Then **$150 CAC on a $40 SKU** is rational. IM8 / Grüns / AG1: acquire $50, **lose $10** on order 1, stay 7–12 months, ~$800 profit — spend $30K → $300K.
+
+**Subscription-first** (IM8, David Protein, AG1, Grüns): break even or lose on order 1 because 2/3/4 pay. Default subscribe-and-save **on** the PDP. The site that makes L2 clickable (drawer, bundle in one view, first-load) is [[Shopify CRO]], not this note. The L1 *offer* is a named [[Hero mechanism]], not a bigger discount.
+
+Cash-flow: profit shows up months later. Clothing uses drops, not a monthly bar. High-ticket one-shot attaches a consumable accessory. Before buying order-one losses, model the offer’s downstream event and payback window: [[Offer economics]].
+
+Email/SMS is the **owned** loop around L3, not a replacement. [[Email and SMS]]
+
+See `/teach-chase`.

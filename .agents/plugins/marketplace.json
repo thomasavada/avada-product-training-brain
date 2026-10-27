@@ -1,0 +1,21 @@
+{
+  "name": "avada-training",
+  "interface": {
+    "displayName": "Avada Product Training Brain"
+  },
+  "plugins": [
+    {
+      "name": "avada-product-training",
+      "source": {
+        "source": "local",
+        "path": "./plugins/avada-product-training"
+      },
+      "version": "0.1.0",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "volvo": {
+    "title": "Volvo EX60 — New standards in safety",
+    "url": "https://www.youtube.com/watch?v=4H8YUng7QPo",
+    "channel": "Volvo Cars"
+  },
+  "bmw": {
+    "title": "BMW Films — The Hire: Ambush",
+    "url": "https://www.youtube.com/watch?v=GW11Lez4elc",
+    "channel": "BMW India"
+  },
+  "airbnb": {
+    "title": "1/2 Billion Guest Arrival — Belong Anywhere",
+    "url": "https://www.youtube.com/watch?v=rQo6zr1nHvw",
+    "channel": "Airbnb"
+  },
+  "cirque": {
+    "title": "Official Trailer — O by Cirque du Soleil",
+    "url": "https://www.youtube.com/watch?v=8JUgCC9mh0A",
+    "channel": "Cirque du Soleil"
+  },
+  "yellowtail": {
+    "title": "BIG GAME Commercial",
+    "url": "https://www.youtube.com/watch?v=nMA8CyRimZo",
+    "channel": "[yellow tail]"
+  },
+  "ryanair": {
+    "title": "Các hãng hàng không giá rẻ kiếm tiền bằng cách nào?",
+    "url": "https://www.youtube.com/watch?v=ZDPlZBK6Oac",
+    "channel": "CD Media - Why?"
+  },
+  "steve-jobs-strategy": {
+    "title": "Steve Jobs talking about a Macbook in 1983!",
+    "url": "https://www.youtube.com/watch?v=vk3vo7xVkJc",
+    "channel": "Foundr",
+    "duration": "0:47"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "avada-product-training": {
+    "source": "https://git.avada.net/avada/starlink-team/avada-product-training.git",
+    "sha": "55c87768a2ed0cf3adf51e4e375d5fb839c3f253",
+    "included": "Markdown course map, progress, feedback reflection, Session 3 recap and source map; no private raw transcript or binary deck"
+  },
+  "chase-chappell-brain": {
+    "source": "https://github.com/thomasavada/chase-chappell-brain",
+    "sha": "c9ef9813d8c6754011d2c42a8609162ad6be2c42",
+    "included": "Curated concepts, brand catalog and 33 public-video source cards; no video or raw transcript"
+  },
+  "interloka-brain": {
+    "source": "https://git.avada.net/avada/starlink-team/interloka-brain.git",
+    "sha": "6413bdb85941cd4bbfb1c55ac761cfa6580a7d96",
+    "included": "Selected synthesized knowledge/curriculum and public video manifest; no raw HEIC, OCR, source previews or binary deck"
+  },
+  "pocock-teach-pattern": {
+    "source": "https://github.com/mattpocock/skills",
+    "included": "Rewritten stateful mission/lesson/learning-record pattern; combined with Avada and Chase teaching methods"
+  }
+}
