@@ -65,6 +65,14 @@ class PluginContractTest(unittest.TestCase):
         self.assertEqual(result["hops"], 1)
         self.assertEqual(result["path"][1]["edge"]["relation"], "curated")
 
+    def test_brand_question_chain(self):
+        text = (ROOT / "plugins" / "avada-product-training" / "skills" / "brand-case-clinic" / "SKILL.md").read_text()
+        self.assertIn("ask these **one at a time**", text)
+        self.assertIn("1. **Mission:**", text)
+        self.assertIn("7. **Economics:**", text)
+        self.assertIn("12. **Revision:**", text)
+        self.assertIn("require evidence or calculation", text)
+
 
 if __name__ == "__main__":
     unittest.main()

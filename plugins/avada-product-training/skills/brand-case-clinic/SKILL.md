@@ -14,6 +14,27 @@ description: Run an evidence-led brand case clinic: inspect a live brand, diagno
 
 ## Flow
 
+### Interactive question chain
+
+When the user is learning or has not supplied a finished analysis, ask these **one at a time**. Wait for their observation before moving on. Do not answer the next question for them.
+
+1. **Mission:** Why are we analyzing this brand, and which decision should the analysis support?
+2. **Buyer/user:** Who buys, who uses, and what tension/job brings them here?
+3. **What is sold:** Beyond the physical SKU, what promise, identity or outcome is being sold?
+4. **Offer:** What product ladder, pricing, bundle, subscription, guarantee and proof move the purchase?
+5. **Demand and distribution:** Where is demand created, trust built, purchase closed and repeat captured?
+6. **Stage:** Survival, Growth or Scale? Name two observed operating behaviors, not a revenue label.
+7. **Economics:** What can we estimate about AOV, COGS, margin, CAC, CVR, repeat and contribution? Which number controls the model?
+8. **Competitor contrast:** Which competitor/substitute plays a different game, and on which competing factors?
+9. **Constraint:** What is the next expensive bottleneck? What evidence contradicts this diagnosis?
+10. **Hypothesis:** What change may move the bottleneck, through which mechanism?
+11. **Test:** What is the cheapest test, primary metric, guardrail and stop rule?
+12. **Revision:** After challenge, what changed between the original and final diagnosis?
+
+At questions 6, 7 and 11, require evidence or calculation. If the learner says “I don't know”, record the unknown and ask what source would resolve it.
+
+When the user asks for a completed professional analysis rather than a lesson, use the same chain as the report structure, but still inspect live sources before filling it.
+
 ### 1. Inspect before diagnosis
 
 Collect live evidence:
