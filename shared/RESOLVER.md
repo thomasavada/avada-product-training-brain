@@ -11,5 +11,8 @@
 | Facilitation/Kahoot/case clinic | `knowledge/interactive-training.md` |
 | Exact source | `knowledge/sources/source-map.md` |
 | Video/resource learning path | `knowledge/sources/learning-resources.md` |
+| Which channels to follow | `knowledge/sources/channel-guide.md` |
+| Build a durable learning routine | `learning-habit-builder` |
+| Explore graph paths and hubs | `brain-graph` |
 
 General rule: brain first, then current primary source when freshness matters.

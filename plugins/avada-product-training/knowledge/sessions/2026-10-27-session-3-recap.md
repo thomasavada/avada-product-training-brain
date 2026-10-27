@@ -327,6 +327,42 @@ ICP + stage
 
 Đây cũng là format cho bài tiếp theo.
 
+#### 5. Xây thói quen học với `/learning-habit`
+
+```text
+/learning-habit Tôi muốn luyện phân tích ecommerce 3 buổi mỗi tuần
+/learning-habit Tạo plan 30 ngày để học business model và product economics
+```
+
+Skill này không tạo một playlist dài. Nó giúp mình chốt mission, cadence, tối đa năm source đang chờ, artifact phải tạo, weekly review và recovery rule nếu bỏ lỡ một tuần.
+
+Habit được đo bằng retrieval, source thật đã inspect, artifact, challenge và revision; không đo bằng số giờ xem video.
+
+#### 6. Xem knowledge graph với `/brain-graph`
+
+```text
+/brain-graph AOV liên hệ với contribution và pricing thế nào?
+/brain-graph Tìm path từ Business Model tới Metric diagnosis
+/brain-graph God nodes của brain là gì?
+```
+
+Brain đã được Graphify thành graph có node, edge, community và shortest path. Graph giúp tìm mối liên hệ và source nên đọc; nó không tự biến một edge thành evidence hoặc causal claim.
+
+### Những channel/source nên xem
+
+Brain có curated guide cho từng learning job, gồm:
+
+- **Chase Chappell** — metric diagnosis, offer, Meta ads, CRO, TikTok Shop và retention.
+- **Operators Podcast** — P&L, cash, inventory, SKU, hiring, wholesale và góc nhìn owner.
+- **Limited Supply** — DTC brand building, creative, team và scaling.
+- **Shopify Masters** — founder case, product/category và distribution.
+- **The Unofficial Shopify Podcast / Ethercycle** — Shopify platform và merchant operations.
+- **The CPG Guys** — retail, CPG và omnichannel.
+- **Chew On This** — DTC operator interviews.
+- **Interloka worked videos** — Volvo, Airbnb, Cirque du Soleil, Yellow Tail, Ryanair và Steve Jobs.
+
+Mỗi source đều có phần nên chú ý, giới hạn của source và artifact cần tạo. Mình không cần subscribe hết rồi xem tràn lan; chọn channel theo capability đang muốn xây.
+
 ### Brain có gì bên trong?
 
 - Methodology và nội dung Avada Product Training Session 1–4.

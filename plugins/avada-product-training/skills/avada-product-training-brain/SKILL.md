@@ -21,6 +21,9 @@ Tri thức nằm ở `${CLAUDE_PLUGIN_ROOT}/knowledge/`. Đọc file liên quan 
 | Team Bloom learner deck và evidence boundary | `knowledge/cases/2026-10-27-team-bloom.md` |
 | Tìm nguồn Notion/Slack/Slides/Git | `knowledge/sources/source-map.md` |
 | Chọn video/source học kèm active prompt | `knowledge/sources/learning-resources.md` |
+| Chọn channel nên theo dõi | `knowledge/sources/channel-guide.md` |
+| Xây thói quen học 30 ngày | `learning-habit-builder` + `knowledge/learning-habit-system.md` |
+| Tìm đường nối/hub trong brain | `brain-graph` + `knowledge/graph/GRAPH_REPORT.md` |
 | Không biết đọc gì | `knowledge/00-index.md` |
 
 ## Quy trình trả lời

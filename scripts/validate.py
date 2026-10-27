@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "plugins" / "avada-product-training"
-EXPECTED_VERSION = "0.2.3"
+EXPECTED_VERSION = "0.3.0"
 
 
 def load_json(path):
@@ -57,8 +57,8 @@ def main():
 
     skill_paths = sorted((PLUGIN / "skills").glob("*/SKILL.md"))
     command_paths = sorted((PLUGIN / "commands").glob("*.md"))
-    assert len(skill_paths) == 4, skill_paths
-    assert len(command_paths) == 4, command_paths
+    assert len(skill_paths) == 6, skill_paths
+    assert len(command_paths) == 6, command_paths
     for path in skill_paths:
         fm, text = frontmatter(path)
         assert fm.get("name") == path.parent.name
@@ -86,6 +86,12 @@ def main():
     assert len(chase_cards) == 34, len(chase_cards)
     assert len(interloka_files) >= 15, len(interloka_files)
     assert len(principles) == 6, len(principles)
+    graph = load_json(PLUGIN / "knowledge" / "graph" / "graph.json")
+    assert len(graph["nodes"]) == 101, len(graph["nodes"])
+    assert len(graph["links"]) == 362, len(graph["links"])
+    for name in ["GRAPH_REPORT.md", "manifest.json", "graph.html"]:
+        assert (PLUGIN / "knowledge" / "graph" / name).exists(), name
+    assert (PLUGIN / "scripts" / "query_graph.py").exists()
 
     forbidden_suffixes = {".pptx", ".pdf", ".heic", ".xlsx", ".csv"}
     secret_patterns = [
@@ -123,6 +129,8 @@ def main():
         "chase_source_cards": len(chase_cards),
         "interloka_markdown": len(interloka_files),
         "principles": len(principles),
+        "graph_nodes": len(graph["nodes"]),
+        "graph_edges": len(graph["links"]),
         "text_files_scanned": checked,
     }, ensure_ascii=False))
 

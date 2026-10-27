@@ -25,6 +25,9 @@ Brain này lưu methodology, curriculum, learner evidence và learning-loop củ
 | `cases/2026-10-27-team-bloom.md` | Team Bloom deck summary and evidence limits |
 | `sources/source-map.md` | Exact external and repository sources |
 | `sources/learning-resources.md` | Curated Chase + Interloka watch list with active prompts and artifacts |
+| `sources/channel-guide.md` | Channels to follow, what each teaches and required artifacts |
+| `learning-habit-system.md` | Weekly/30-day habit system, scorecard and recovery rules |
+| `graph/` | Graphify JSON, report, manifest and interactive HTML |
 | `principles/` | Business-before-feature, evidence, AI/judgment and learning rules |
 | `chase/` | Curated Chase Chappell metrics, offer, CRO, retention and video index |
 | `interloka/` | Curated Integrated Brand Strategy and Business Model synthesis |
@@ -56,3 +59,5 @@ Never reverse this hierarchy merely because a synthesis is easier to read.
 - `teach-me-ecom` — stateful interactive teaching.
 - `brand-case-clinic` — live brand analysis and correction.
 - `app-value-deep-dive` — app mechanism, value, ROI and pricing.
+- `learning-habit-builder` — mission-linked practice cadence and source queue.
+- `brain-graph` — paths, hubs and cross-domain relationships.

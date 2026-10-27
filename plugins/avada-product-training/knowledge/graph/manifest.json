@@ -1,0 +1,406 @@
+{
+  "00-index.md": {
+    "sha256": "41c07ef452ef16a03d2edb49fe8dd532cc78d0cb8a2660ef9fe259b5bcc02c54",
+    "bytes": 2925
+  },
+  "avada/Avada Product Training — Learner feedback và facilitator reflection (2026-10-27).md": {
+    "sha256": "031cc9aa7e1ae3c1222e864be9ca6a93067cddf683ea1651fbd81e967c2fe6df",
+    "bytes": 156
+  },
+  "avada/Avada Product Training — Progress qua ba buổi và case clinic (2026-10-27).md": {
+    "sha256": "00ec8bb4f3485ceb1589df0cd2d8df1af108996cdc76d8978b3f9b57bcbdf082",
+    "bytes": 146
+  },
+  "avada/Module 1 — Basic commercial and ecommerce economics.md": {
+    "sha256": "396cf84200036867ef612eab929db73060f879d87a3902d15dd6b6ed52397f1b",
+    "bytes": 265
+  },
+  "avada/Module 2 — Merchant growth journey.md": {
+    "sha256": "60c16326554d199b3c50d30912150e6f8ffa7f345a1c506ea899f1cbc481254e",
+    "bytes": 236
+  },
+  "avada/Module 3 — Merchant stage × spend surface.md": {
+    "sha256": "221840d212c5d8affd6b6b9ce79aa2b35005f99992ed04caebbe1b68836d08ef",
+    "bytes": 259
+  },
+  "avada/Retrospective buổi 1–2 và format case clinic cho buổi tiếp theo — 2026-10-13.md": {
+    "sha256": "8dbb8382185e391bfa4c7c08b08e1852d059e53cad09cdcdb695c0da3e461e88",
+    "bytes": 206
+  },
+  "avada/_Avada Product Training Index.md": {
+    "sha256": "281bb6519de575ded859200c14408733668d208c3a39b11d2e93b5979aa02804",
+    "bytes": 192
+  },
+  "cases/2026-10-27-team-bloom.md": {
+    "sha256": "177a4ae251eb2efa2d03d9025dde0e74a6f6beb32d54fd69e56b2cb8308930f8",
+    "bytes": 3099
+  },
+  "chase/brands/Brand atlas.md": {
+    "sha256": "96f7894033d93fc184383cf32374067f812b4ffac20397bd1b36e4c6adde37c3",
+    "bytes": 4579
+  },
+  "chase/brands/Shorts catalog.md": {
+    "sha256": "79db14e5ff649d0d4fdb2d60f7660bb6a0dfab164d3c37e3d96c0a63303b6df8",
+    "bytes": 29659
+  },
+  "chase/concepts/33 percent rule.md": {
+    "sha256": "2a0a6b9f7c0837b40234a7faaad8e3e7990478f85fb511ee9eae88f614643033",
+    "bytes": 1920
+  },
+  "chase/concepts/4-campaign method.md": {
+    "sha256": "125153f9ba1cca132544ca23a18fbd1bd58bf52a32fd859ef32b1394dce234ae",
+    "bytes": 3422
+  },
+  "chase/concepts/AI creative stack.md": {
+    "sha256": "c98594b6e308b2a96027d533d27f572164cc09a54908f3c727c45f643eb3bdc3",
+    "bytes": 1084
+  },
+  "chase/concepts/Andromeda stack.md": {
+    "sha256": "b45b3a12ceea91c7dd41aafaceaaaef9ad2d50173e60af1f30e3ec86bcc3e43a",
+    "bytes": 1274
+  },
+  "chase/concepts/Awareness ladder.md": {
+    "sha256": "b55a51c253e196ce1a8ce0c70b2cec710960d38716df3b471ea50a90a6d64a6e",
+    "bytes": 735
+  },
+  "chase/concepts/Brand breakdown.md": {
+    "sha256": "2c493f381e1dfc5aeeaf7ba7a8a923c7e9be5879d0c901eab965aedb753ac206",
+    "bytes": 2792
+  },
+  "chase/concepts/Break-even ROAS and AOV floor.md": {
+    "sha256": "4cef441c6713defc114f12b2a9a94d8a27d5061d9bfcb3e88a0a5257fcfb8e73",
+    "bytes": 1026
+  },
+  "chase/concepts/CAPI matchback.md": {
+    "sha256": "fb61992e6f32123e9e2e81ebba535d108864a51d962a9866818d0695897d0a43",
+    "bytes": 625
+  },
+  "chase/concepts/Chase classroom.md": {
+    "sha256": "04bd32517e4a9414fecbc40a22be69baf30598480776cae43c2bd89190f5b488",
+    "bytes": 1540
+  },
+  "chase/concepts/Email and SMS.md": {
+    "sha256": "25bd832ac63f41d45cf0e4c6292d7dccf2cc454f9b6c61c8ae89371b8091a9eb",
+    "bytes": 1851
+  },
+  "chase/concepts/Five levels of brands.md": {
+    "sha256": "c2be28f3e7526849cd0240eab2d53fc627a45c61c599d51860b696154f8e3079",
+    "bytes": 1095
+  },
+  "chase/concepts/Hero mechanism.md": {
+    "sha256": "3740c48e34fcbd364e335a56eec5064e881907a779f533b713a8d9f354fb24da",
+    "bytes": 2527
+  },
+  "chase/concepts/Hims diagnostic layer.md": {
+    "sha256": "f5c4a17ed7b9401c8ac19be0524dee231c2a3d198dec7e92e7da853e993754f6",
+    "bytes": 826
+  },
+  "chase/concepts/Metric diagnosis tree.md": {
+    "sha256": "2be7c17bd5f07dcf6f10787955afffc32d8a1715ce50b068546e019aed72066d",
+    "bytes": 2916
+  },
+  "chase/concepts/Offer economics.md": {
+    "sha256": "1fa338cee9c60692273533332a763874ceff1a4005f6db920675c2888b9cc218",
+    "bytes": 2498
+  },
+  "chase/concepts/Partnership Hub and Euka.md": {
+    "sha256": "b234e682a4ce4cc76da7036e96f6fad64e7865c24454acb1c99af7a812d5c635",
+    "bytes": 844
+  },
+  "chase/concepts/Shopify CRO.md": {
+    "sha256": "390c0e7bcb18f8793cc074438b7c5eb8520710beb6089299840787bd092b19db",
+    "bytes": 2234
+  },
+  "chase/concepts/Three levels of purchase.md": {
+    "sha256": "e30a93bc5a043c7efeec803af7ef71be1a4c64f9ba6d3ac344fb0a02e98fcfe9",
+    "bytes": 1651
+  },
+  "chase/concepts/TikTok Shop army.md": {
+    "sha256": "e53c914caf8b873c412504c62dd2a8028e3bc93d0a5a1afcc9308dcff1cefd34",
+    "bytes": 2651
+  },
+  "chase/concepts/Villain marketing.md": {
+    "sha256": "02c2bf619177ee0c6bf20429bced123c1acbeaac3bb24be78c2a8e429a2975d6",
+    "bytes": 742
+  },
+  "chase/foundations/glossary.md": {
+    "sha256": "de1ffd1a7d947f95f7dc35dae81821eb9fe819ef8d5cddabcce6b5ad648036f2",
+    "bytes": 2715
+  },
+  "chase/foundations/playbook.md": {
+    "sha256": "8ed79490ed53ff71938f39ca455fd8c89339b4ef9667fbb5252ab6a2abd810ef",
+    "bytes": 5164
+  },
+  "chase/sources/Chase Chappell - 0 to 315K TikTok Shop in 30 Days.md": {
+    "sha256": "6b5aca3e235a07d05c995b4ca13e07c39ced8b79a26f5a86a43a105d562875e6",
+    "bytes": 528
+  },
+  "chase/sources/Chase Chappell - 100M Offer on Shopify.md": {
+    "sha256": "82d45e117725ed1bf2c67632dfbc46c00eb0ab92f8d17c7401f51397b7446d35",
+    "bytes": 709
+  },
+  "chase/sources/Chase Chappell - 10X Ecommerce UGC Creator Army.md": {
+    "sha256": "922bc6eab4e0fc42a9fdab2174c8ecf94e4b2f6ef6416ceab3d590bd09e42dcb",
+    "bytes": 963
+  },
+  "chase/sources/Chase Chappell - 10X Meta Ad Account.md": {
+    "sha256": "146338c35599f23a980e97af974d17ad15c8115ded977a871b0a698528d0fcf9",
+    "bytes": 518
+  },
+  "chase/sources/Chase Chappell - 13 Hour Marketing Course.md": {
+    "sha256": "2c3073e46540d4502884cdfff173367d2be8aacba8332c702d9163608837b162",
+    "bytes": 685
+  },
+  "chase/sources/Chase Chappell - 1460 Meta Ad Creatives Study.md": {
+    "sha256": "16c33f8d9f6da052c99675ac424974efb13d01042a56612f2e49cc95f5f92aa9",
+    "bytes": 563
+  },
+  "chase/sources/Chase Chappell - 200+ AI Tools.md": {
+    "sha256": "c3f194aa40d4805e1260defca4ebdba2fb18214be403e95657624c05418d3c5d",
+    "bytes": 514
+  },
+  "chase/sources/Chase Chappell - 5 Levels of Brands.md": {
+    "sha256": "d5065a599a609cc21cbcd66a0d3fb9ba3d2168e9bd1e62675e0872f32010b701",
+    "bytes": 480
+  },
+  "chase/sources/Chase Chappell - 5 Levels of Personal Brand.md": {
+    "sha256": "7b8257e767713e200862231ce4a5c07be9d771e564650abb2c2c79ba2fc8d9e8",
+    "bytes": 526
+  },
+  "chase/sources/Chase Chappell - AI Agent Automates UGC Creators.md": {
+    "sha256": "24c2783affa9b9691dcda06ab12485000d9c443450bed45b4ba5002cde984f33",
+    "bytes": 525
+  },
+  "chase/sources/Chase Chappell - AI Creative Generator One Prompt.md": {
+    "sha256": "c9481e70ef9760c7742c8ae153b8482d24d4a4bc852d76541a8b5eba97bca70d",
+    "bytes": 526
+  },
+  "chase/sources/Chase Chappell - AI UGC Avatars Look and Sound Real.md": {
+    "sha256": "fa73ff85031f00f85115305e1249d6460d57b155f3dd693233b4efe640a41ae0",
+    "bytes": 536
+  },
+  "chase/sources/Chase Chappell - Andromeda Everything Just Changed.md": {
+    "sha256": "40a90365b8ec6fe1b3649a89bf245190784b1c629b73fcba2ada7b99f2e8713e",
+    "bytes": 553
+  },
+  "chase/sources/Chase Chappell - Bloom 17M TikTok Shop Strategy.md": {
+    "sha256": "9dc2085144f65ebecdc5daf087a6b6c973e51369b82eb993b0ef25633d495c2c",
+    "bytes": 504
+  },
+  "chase/sources/Chase Chappell - Claude Changed Facebook Ads Forever.md": {
+    "sha256": "1c790fd54aab08ff7918472e5592bf31066ed15582657560b1f26e3531f72c6e",
+    "bytes": 556
+  },
+  "chase/sources/Chase Chappell - Cloned 100 Winning Ads with AI.md": {
+    "sha256": "30e50a95604319c1b552988bc05170ae2dd10a9d276e71a4fa5f9e4519df0151",
+    "bytes": 560
+  },
+  "chase/sources/Chase Chappell - Copy This Facebook Ad Strategy.md": {
+    "sha256": "0a1ce2a46b69d6d286fe3f8af0d733e750c2e463635f2c5ae2e2be8491cbf3a3",
+    "bytes": 547
+  },
+  "chase/sources/Chase Chappell - Dangerously Good with AI.md": {
+    "sha256": "fe2d5567ea704926a4809ef545f8b95543ceee876f9640aebce9c64f40a89820",
+    "bytes": 511
+  },
+  "chase/sources/Chase Chappell - Ecommerce Funnel They Beg to Buy.md": {
+    "sha256": "8b23911a3bc9bac8824d5cc70e53d711ed978dc2adbeb2a8e506028dc19ad795",
+    "bytes": 529
+  },
+  "chase/sources/Chase Chappell - Ecommerce Offer Economics.md": {
+    "sha256": "f8cc6ac484800b6956024f67ffb64c515ee3e96c781687518cb937409d720531",
+    "bytes": 1028
+  },
+  "chase/sources/Chase Chappell - Facebook Ad Creatives in 2027.md": {
+    "sha256": "b4071e12221ae926aad0d045015bf24295dfc66bad9d7eb261f39665b6054038",
+    "bytes": 555
+  },
+  "chase/sources/Chase Chappell - Facebook Ad Tutorial 2026.md": {
+    "sha256": "b495d4d041f42a207585722a931859063f607d098272b54211f3247442cf605c",
+    "bytes": 820
+  },
+  "chase/sources/Chase Chappell - Grow Any Brand 20x Faster.md": {
+    "sha256": "b8c28d6ce782fed4763c36403ffe4bb2b7eb60d28a4016c8cb893bb08bb9c9a2",
+    "bytes": 498
+  },
+  "chase/sources/Chase Chappell - Hims Hers 8 Billion Brand.md": {
+    "sha256": "79cc24fb0d72733d5df8e16077543b6270292ed2c9dafb504e88f524f61749b4",
+    "bytes": 514
+  },
+  "chase/sources/Chase Chappell - If You Watch One Facebook Ad Video.md": {
+    "sha256": "ec48444746294c67507c9d91676c9f3621c709ccb12ff623f589a460724bd37d",
+    "bytes": 560
+  },
+  "chase/sources/Chase Chappell - Meta Ad Creatives That Stop The Scroll.md": {
+    "sha256": "8db8e0628a8745733f42919b86609a4aa0e7af626fbd2d914b40ec7cd72b3249",
+    "bytes": 561
+  },
+  "chase/sources/Chase Chappell - Meta UGC Partnership Ads Hub.md": {
+    "sha256": "7888488b29c6ecb38a779dac63b2610e0c8d4b1c966b3f2d94d39a67f4726c6c",
+    "bytes": 498
+  },
+  "chase/sources/Chase Chappell - Scale Facebook Ads 2026.md": {
+    "sha256": "402b7f48608ec22a6706994d8ce9f55b2e8e628094c9155b8ade8f9e4eeb5637",
+    "bytes": 479
+  },
+  "chase/sources/Chase Chappell - Sell For 8X More.md": {
+    "sha256": "827e8e34d375979822315ce01d6e3c516d66f443a38aa461f0c66972c1a2fc93",
+    "bytes": 518
+  },
+  "chase/sources/Chase Chappell - Shopify Conversion Rates 2026.md": {
+    "sha256": "209a9f603f570377c3a175b33c1c4c82883d32da81654aa785eee9b2694277c4",
+    "bytes": 749
+  },
+  "chase/sources/Chase Chappell - Target Facebook Ads Post-Andromeda.md": {
+    "sha256": "d2b4ee7cb06b6a140d3f4d45d18415a3a825c55e49dd14c3f532971faa24dd54",
+    "bytes": 786
+  },
+  "chase/sources/Chase Chappell - Villain Marketing.md": {
+    "sha256": "5a8c0182f1a1993b24bfd93554b57048c198a9b7ace882e4bc2ac99d54bf86f9",
+    "bytes": 498
+  },
+  "chase/sources/Chase Chappell - Why ROAS Collapses After Andromeda.md": {
+    "sha256": "3feb2f7179ae88b8eb49862dc66edb4709d30b05c03f24b3e1e4127456df339e",
+    "bytes": 835
+  },
+  "chase/sources/Source index.md": {
+    "sha256": "8ba3df31cef202af32b18343c33941263f4007a42ad24b534a0a05eda3faf30b",
+    "bytes": 7374
+  },
+  "course-map.md": {
+    "sha256": "d3a671ae10ccbaaa6936a4cf62cfcc07b8e2e6e67fc5d668739c1a50fd52c575",
+    "bytes": 4187
+  },
+  "interactive-training.md": {
+    "sha256": "d89a25f5ea48c1f1c878e25687d69cd9407d22ca6add855ebbd3fe02af5f171b",
+    "bytes": 2839
+  },
+  "interloka/curriculum/assessment-rubric.md": {
+    "sha256": "a2cdcc3929d65019cdf3c4a54ce019ba34722cd18d270c22566bb5563bb0e8d9",
+    "bytes": 938
+  },
+  "interloka/curriculum/course-map.md": {
+    "sha256": "c0ca4dfb1833d2f9bb3b86aa562dca971cb60c84a403b93a5322836f61d255f8",
+    "bytes": 3782
+  },
+  "interloka/curriculum/language-style.md": {
+    "sha256": "bf394f89fb43f7112a6f2767793a14057e45f174a84949709c0b047fd364b8ea",
+    "bytes": 2402
+  },
+  "interloka/knowledge/00-index.md": {
+    "sha256": "55f77aebbd24b197e0d59d339a21e2202d125b5fb17dacdff0ad060f2c3f0d3c",
+    "bytes": 3183
+  },
+  "interloka/knowledge/01-strategy-and-business-model.md": {
+    "sha256": "c14c2f6a0da272dc7e1ed2ee0a90561fa77f90048b457605ec79ca0c047af6a5",
+    "bytes": 3768
+  },
+  "interloka/knowledge/02-blue-ocean-and-value-innovation.md": {
+    "sha256": "aa4ac28e2b3f23cff5c298321285e4a26c07d69ab67dbab6e3aebe7ce67c4c69",
+    "bytes": 2977
+  },
+  "interloka/knowledge/03-category-positioning.md": {
+    "sha256": "34c8fbbbdbf5bfb946715732e6f49f3de35da106e37f24ab84bad973b3091a8d",
+    "bytes": 2426
+  },
+  "interloka/knowledge/04-functional-differentiators-and-distinctiveness.md": {
+    "sha256": "48e69774faef5cbfa96ae363517f5a61bf320b946ab8f9fb854aa30fece53d05",
+    "bytes": 2669
+  },
+  "interloka/knowledge/05-brand-archetype-and-personality.md": {
+    "sha256": "a27ff80545354df4da46c5f98c7b016f225876c22769b85f0ac7f8ba95a0215e",
+    "bytes": 1885
+  },
+  "interloka/knowledge/06-core-values-and-corporate-culture.md": {
+    "sha256": "4f802c3931584d49db51bbac9d506c56b910a833e17e9ab6a1e32a9fcb47f82c",
+    "bytes": 2143
+  },
+  "interloka/knowledge/07-positioning-big-idea.md": {
+    "sha256": "63c8f37364a4d700fd321300bd15646bcb76bded6610af1c659547f34f962a87",
+    "bytes": 1834
+  },
+  "interloka/knowledge/08-cd-map-centrality-distinctiveness.md": {
+    "sha256": "b2dbb0560669586e80ada275399e1444a4ed94c0940389baa6cd9f286d299b3d",
+    "bytes": 3139
+  },
+  "interloka/knowledge/09-category-entry-points.md": {
+    "sha256": "026708b7c2b29a919ad1cd70f16278c0df44a191310c2fc4e6b68f44aab02b79",
+    "bytes": 2591
+  },
+  "interloka/knowledge/10-strategy-goals.md": {
+    "sha256": "d72b00dd77e8df040838942a5991acc5e352f16dec02c5abe4cdd418321027a4",
+    "bytes": 2284
+  },
+  "interloka/knowledge/11-business-model-systems-platforms.md": {
+    "sha256": "6b0c559194e3af31998b6ce2860a5603c9d0255afbbef9adb451a4e03cb74494",
+    "bytes": 2812
+  },
+  "interloka/knowledge/business-model-in-one-page.md": {
+    "sha256": "a92f4f725cfae3e73e37a9996918740e26a960cd6cd1b1c54aa18ff3ed649794",
+    "bytes": 908
+  },
+  "interloka/knowledge/framework-map.md": {
+    "sha256": "280027f78154b0d703c989c1ec68c55125b07d89f4a56805a3979330d9e16f1c",
+    "bytes": 1555
+  },
+  "learning-habit-system.md": {
+    "sha256": "513cfc91bf0dc8e526b9ad196ca7f03b186054d3502f2a4300edf25425a65f86",
+    "bytes": 3395
+  },
+  "principles/artifact-and-correction.md": {
+    "sha256": "f58bd2dd431bcaf0f2089b5af83a9db0565b2f3c4bb481967e62657983d19105",
+    "bytes": 338
+  },
+  "principles/business-before-feature.md": {
+    "sha256": "a363e4781559f00e39d4ea15ef1a65f24d1af04df60679e11d44f638c5232cac",
+    "bytes": 321
+  },
+  "principles/contrast-prevents-bias.md": {
+    "sha256": "3f655c7db7d30b6d99d38069cdf208d1f9902f16e55abac6b4b6e1b403f37b96",
+    "bytes": 367
+  },
+  "principles/evidence-before-confidence.md": {
+    "sha256": "bd5ced3e4c7d4a6444d89490911c486cfeaec6f6085e54e069164a27c426c352",
+    "bytes": 362
+  },
+  "principles/metric-to-value.md": {
+    "sha256": "d31d3f577948ddfcd0a864b2f9e12e45847378518cfcd2de00ccb4220cbc7010",
+    "bytes": 309
+  },
+  "principles/no-ai-outsourcing-judgment.md": {
+    "sha256": "99475cdb7743a9cb0c3d9e6e96e644a55562573503cbf16767079cd035066cc6",
+    "bytes": 390
+  },
+  "product-operator-method.md": {
+    "sha256": "8f52ef2fc59dafecc8d2ce48a97921025eed062b8e38b2f5f03fe3d5a2f24e78",
+    "bytes": 3197
+  },
+  "progress/2026-10-27-learner-feedback-reflection.md": {
+    "sha256": "c3c7ec457dd66dd8b365eda9d1918cdafb190058727927d78f7d71af5b3a4310",
+    "bytes": 13452
+  },
+  "progress/2026-10-27-three-session-progress.md": {
+    "sha256": "5f79a413505740e72177dfbbb30fb569cd143e1ee9e6d560213be47a52bc2156",
+    "bytes": 18093
+  },
+  "sessions/2026-10-27-session-3-recap.md": {
+    "sha256": "96dca3051ed77f99cf4be07a994c7271ac1ecdff1902ff83a93d6f7de7cb4905",
+    "bytes": 20164
+  },
+  "sources/channel-guide.md": {
+    "sha256": "33d282cf0f12ee17ad57b1a2c4abbaf7510f860a0fa07837348c9f74420c327a",
+    "bytes": 3962
+  },
+  "sources/learning-resources.md": {
+    "sha256": "2c1a53da3b313a9f76ff2d82d72964bf0d74af4042797b8d26beaabff534844f",
+    "bytes": 4728
+  },
+  "sources/source-map.md": {
+    "sha256": "b4e4a8d65124f8d08aa3eafd629b82b60c65cf3867cdabdfc9ce7ce74a9b2c34",
+    "bytes": 2374
+  },
+  "templates/product-argument.md": {
+    "sha256": "a8900602f796e9bb89a6321fe3b7c9125163cc5c429ff2d811e37bff2bcef74a",
+    "bytes": 1996
+  }
+}

@@ -18,9 +18,11 @@ class PluginContractTest(unittest.TestCase):
         )
         result = json.loads(run.stdout.strip())
         self.assertTrue(result["ok"])
-        self.assertEqual(result["skills"], 4)
-        self.assertEqual(result["commands"], 4)
+        self.assertEqual(result["skills"], 6)
+        self.assertEqual(result["commands"], 6)
         self.assertEqual(result["chase_source_cards"], 34)
+        self.assertEqual(result["graph_nodes"], 101)
+        self.assertEqual(result["graph_edges"], 362)
 
     def test_teach_me_does_not_dump_answer_first(self):
         text = (ROOT / "plugins" / "avada-product-training" / "skills" / "teach-me-ecom" / "SKILL.md").read_text()
@@ -42,6 +44,26 @@ class PluginContractTest(unittest.TestCase):
         self.assertIn("ZDPlZBK6Oac", text)
         self.assertGreaterEqual(text.count("https://"), 10)
         self.assertGreaterEqual(text.count("Artifact"), 10)
+
+    def test_learning_habit_and_graph_skills(self):
+        habit = (ROOT / "plugins" / "avada-product-training" / "skills" / "learning-habit-builder" / "SKILL.md").read_text()
+        graph = (ROOT / "plugins" / "avada-product-training" / "skills" / "brain-graph" / "SKILL.md").read_text()
+        self.assertIn("five or fewer", habit)
+        self.assertIn("artifact", habit.lower())
+        self.assertIn("graph.json", graph)
+        self.assertIn("retrieval map, not doctrine", graph)
+
+        run = subprocess.run(
+            [sys.executable, str(ROOT / "plugins" / "avada-product-training" / "scripts" / "query_graph.py"), "path", "Product operator method", "Metric diagnosis tree"],
+            cwd=ROOT,
+            text=True,
+            capture_output=True,
+            check=True,
+        )
+        result = json.loads(run.stdout)
+        self.assertTrue(result["ok"])
+        self.assertEqual(result["hops"], 1)
+        self.assertEqual(result["path"][1]["edge"]["relation"], "curated")
 
 
 if __name__ == "__main__":

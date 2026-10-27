@@ -50,6 +50,8 @@ Start a new session after install/update.
 | `/teach-me` | Stateful, interactive learning: one scenario, guess, correction, transfer |
 | `/analyze-brand` | Evidence-led brand/store case clinic |
 | `/analyze-app` | App mechanism, KPI, value, ROI, pricing and proof |
+| `/learning-habit` | Build a 30-day mission, source queue, practice cadence and review loop |
+| `/brain-graph` | Navigate Graphify paths, hubs and connected knowledge |
 
 ## What ships
 
@@ -64,6 +66,7 @@ plugins/avada-product-training/
     ├── cases/
     ├── chase/       curated public Chase material
     ├── interloka/   synthesized framework notes, no raw course photos/OCR
+    ├── graph/       101-node knowledge graph, report and interactive HTML
     └── sources/
 ```
 
@@ -84,6 +87,25 @@ Mission
 ```
 
 Coverage is not learning. Attendance is not learning. A lesson completes when the learner can apply the idea to a changed case and explain evidence limits.
+
+## Channels and learning habit
+
+`knowledge/sources/channel-guide.md` curates Chase Chappell, Operators Podcast, Limited Supply, Shopify Masters, The Unofficial Shopify Podcast, The CPG Guys, Chew On This and the Interloka worked videos. Every source has a learning job, caution and required artifact.
+
+`/learning-habit` turns that corpus into a weekly routine. It limits the queue to five resources and measures retrieval, live-source inspection, artifacts, challenge and revision instead of watch time.
+
+## Graphify
+
+The committed graph is rebuilt deterministically from Markdown wikilinks plus explicit cross-domain teaching links:
+
+```bash
+python3 scripts/rebuild-graph.py
+python3 scripts/rebuild-graph.py --check --strict
+graphify path "Product operator method" "Metric diagnosis tree" \
+  --graph graphify-out/graph.json --undirected
+```
+
+Current graph: **101 nodes · 362 edges · 0 unresolved wikilinks**. The same graph artifacts ship inside the plugin at `knowledge/graph/`, so `/brain-graph` works after marketplace installation.
 
 ## Evidence rules
 

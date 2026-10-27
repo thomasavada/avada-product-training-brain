@@ -3,4 +3,6 @@ lessons/
 learning-records/
 reference/
 assets/generated/
+graphify-out/cache/
+plugins/avada-product-training/knowledge/graph/cache/
 .DS_Store

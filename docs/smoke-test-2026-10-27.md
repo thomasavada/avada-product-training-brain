@@ -58,3 +58,31 @@ The resource corpus is statically checked in `tests/test_plugin.py` for:
 - an artifact prompt for every curated resource.
 
 This avoids requiring the runtime to scan all 33 Chase source cards for a simple learning-path request.
+
+## Positive — learning habit builder
+
+Prompted the plugin to build a 30-day ecommerce-analysis habit for BA work, three sessions per week.
+
+Observed:
+
+- created `MISSION.md`, `LEARNING-HABIT.md`, `RESOURCES.md`, practice/weekly-review templates and learning-record rules;
+- kept the resource queue at four active/queued items with the fifth slot deliberately empty;
+- required an artifact for every source;
+- measured retrieval, live-source inspection, challenge and revision instead of watch time;
+- included a ten-minute recovery rule after a missed week.
+
+Verdict: **pass**.
+
+## Positive — brain graph
+
+Asked for the shortest path from `Product operator method` to `Metric diagnosis tree`.
+
+Observed:
+
+- bundled query script returned one hop;
+- identified relation `curated` with confidence `CURATED`;
+- returned both source files;
+- read both notes before explaining the connection;
+- stated that the edge is navigation, not causal evidence.
+
+Verdict: **pass**.
