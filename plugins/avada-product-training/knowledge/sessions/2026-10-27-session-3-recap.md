@@ -244,6 +244,117 @@ Stage + ICP
 → test / holdout / stop rule
 ```
 
+## Cách dùng Product Training Brain để học tiếp
+
+Mình đã gom lại slide, methodology, progress của các buổi, feedback, các case, nguồn video Chase Chappell và phần framework Interloka thành một public brain để mọi người có thể tự học và practice tiếp sau buổi training.
+
+GitHub:
+
+https://github.com/thomasavada/avada-product-training-brain
+
+### Cài trên Claude Code
+
+```text
+/plugin marketplace add https://github.com/thomasavada/avada-product-training-brain.git
+/plugin install avada-product-training@avada-training
+```
+
+Sau khi cài hoặc update, mở session mới.
+
+### Brain có những cách dùng nào?
+
+#### 1. Hỏi lại nội dung training
+
+```text
+/product-training Session 3 muốn mọi người thay đổi cách nghĩ gì?
+/product-training Giải thích Stage + ICP + KPI leak
+/product-training Vì sao pricing phải so với value?
+```
+
+Brain sẽ đọc source đã lưu rồi mới trả lời, đồng thời tách fact, assumption, vendor claim và modeled value.
+
+#### 2. Học theo từng bài ngắn với `/teach-me`
+
+```text
+/teach-me AOV, COGS và contribution
+/teach-me cách đọc một brand đang ở stage nào
+/teach-me cách đi từ metric tới ROI
+/teach-me Blue Ocean và Strategy Canvas
+```
+
+`/teach-me` không dump nguyên một bài lecture. Nó sẽ đưa một scenario, để mình đoán hoặc tính trước, sau đó mới sửa, đưa một job cụ thể và cho case khác để transfer. Brain cũng có thể giữ `MISSION.md`, lesson và learning record để học qua nhiều session.
+
+#### 3. Phân tích một brand thật
+
+```text
+/analyze-brand Bloom Nutrition
+/analyze-brand một Shopify store tôi đang research
+```
+
+Skill sẽ đi theo case-clinic flow:
+
+```text
+inspect source
+→ observation
+→ stage / business model / economics
+→ competitor contrast
+→ hypothesis
+→ peer challenge
+→ revised conclusion
+```
+
+Nó không coi learner slide hoặc AI summary là fact. Khi cần freshness, agent vẫn phải đọc live storefront và primary source.
+
+#### 4. Phân tích value và pricing của một app
+
+```text
+/analyze-app Order Editing
+/analyze-app app tôi đang phụ trách
+```
+
+Skill sẽ buộc argument đi qua:
+
+```text
+ICP + stage
+→ problem / economic leak
+→ mechanism
+→ KPI movement
+→ modeled value
+→ pricing ceiling
+→ proof plan
+→ Build / Test more / Reposition / Stop
+```
+
+Đây cũng là format cho bài tiếp theo.
+
+### Brain có gì bên trong?
+
+- Methodology và nội dung Avada Product Training Session 1–4.
+- Progress, learner feedback và reflection sau các buổi.
+- Case Blume, Promix và Bloom Nutrition.
+- 34 source cards từ public Chase Chappell videos.
+- Metric diagnosis, offer economics, CRO, TikTok Shop, retention và Five Levels of Brands.
+- Interloka synthesis về Business Model, C-D Map, Blue Ocean, category, POD và positioning.
+- 10 video/resource được curate sẵn, mỗi nguồn có viewing prompt và artifact phải tạo.
+- Sáu principles về business-first product work, evidence, judgment và learning.
+
+Brain không chứa raw private transcript, Slack export, source ảnh/OCR độc quyền hoặc customer data.
+
+### Cách dùng mình khuyến khích
+
+Không hỏi brain để nó làm xong bài tập thay mình. Dùng nó theo loop:
+
+```text
+Tự quan sát trước
+→ tự đưa hypothesis hoặc phép tính
+→ dùng brain để challenge
+→ quay lại primary source
+→ sửa artifact
+→ lưu điều đã học
+```
+
+Nếu bắt đầu bằng việc bảo brain viết toàn bộ analysis, mình lại quay về đúng vấn đề ban đầu: có một output rất đầy nhưng judgment của người học không tăng.
+
 ## Kết lại
 
 Điều làm mình vui sau ba bài không phải là slide đẹp hơn. Mình thấy mọi người đã bắt đầu tự quan sát, lưu evidence, đưa ra phỏng đoán và có góc nhìn riêng để người khác phản biện.
